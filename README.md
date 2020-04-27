@@ -53,7 +53,7 @@ Para cada imágen de lunar, se ha dejado un comentario en aquellos melanomas inc
 * [Joaquin Gonzalez Budiño](https://github.com/guobiloo)
 
 ## Contacto
- * Joaquin: joa_gzb@hotmail.com / joa.gzb@hotmail.com
+ * Joaquin: joa_gzb@hotmail.com / joa.gzb@gmail.com
  * Emiliano: emiliano.kalafatic@gmail.com
 
 --------------------------------
