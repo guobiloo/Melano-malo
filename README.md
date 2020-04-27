@@ -1,5 +1,4 @@
 # Melano-malo
---------------------------------
 
 ### Problema y contexto
 Un melanoma maligno tiene la contrapartida de que, si es pronosticado como tal de forma tardía, será muy complicado su
@@ -29,6 +28,7 @@ estado de un melanoma y acudir a un médico en caso de síntomas sospechosos, o 
 Con las medidas de desempeño calculadas se determinó que el porcentaje medio de aciertos del primer método fue del 75%, mientras que para el segundo fue del 81%.
 
 En el siguiente link se puede acceder al informe que presenta los detalles técnicos de la implementación
+[Informe Paper](https://github.com/guobiloo/Melano-malo/blob/master/Informe_TPfinalPDI_Gonzalez_Kalafatic.pdf)
 
 --------------------------------
 
