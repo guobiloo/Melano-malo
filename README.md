@@ -27,7 +27,10 @@ estado de un melanoma y acudir a un médico en caso de síntomas sospechosos, o 
 ## Implementación del algoritmo y resultados técnicos
 Con las medidas de desempeño calculadas se determinó que el porcentaje medio de aciertos del primer método fue del 75%, mientras que para el segundo fue del 81%.
 
-En el siguiente link se puede acceder al informe que presenta los detalles técnicos de la implementación
+Consulte mi página web personal a continuación en donde se presentan los detalles técnicos:
+- [sitio web personal](https://guobiloo.github.io/Melano-Malo/)
+
+En el siguiente link se puede acceder exclusivamente al informe que presenta los detalles técnicos de la implementación
 
 [Informe Paper](https://github.com/guobiloo/Melano-malo/blob/master/Informe_TPfinalPDI_Gonzalez_Kalafatic.pdf)
 
@@ -47,7 +50,8 @@ Dentro del script hay dos secciones: "BENIGNOS" Y "MALIGNOS". Para cada existe u
 
 Para cada imágen de lunar, se ha dejado un comentario en aquellos melanomas incorrectamente clasificados.
 
---------------------------------
+
+-------------------------------
 ## Autores
 * [Emiliano Kalafatic](https://github.com/abakim)
 * [Joaquin Gonzalez Budiño](https://github.com/guobiloo)
